@@ -1,4 +1,5 @@
 # Quantium-Data-Analytics-Virtual-Experience-Program
+My attempts made for the  <a href="https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=DsEXFixxovqkRxR2u">Quantium Data Analytics Virtual Experience Program on Forage</a>.
 
 # Objectives
 * Look for inconsistencies, missing data across the data set, outliers, correctly identified category items, numeric data across all tables.
